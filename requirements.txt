@@ -1,0 +1,13 @@
+pandas
+numpy
+spacy
+torch
+transformers
+vaderSentiment
+scikit-learn
+tqdm
+plotly
+python-dotenv
+unidecode
+emoji
+praw
